@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi there! I am Danny👋
 
-Welcome to my GitHub profile! I'm a passionate second-year student in Software Engineering, with hands-on experience in both website and mobile app development. I'm always eager to learn and grow my skillset, and I'm currently looking for exciting internship opportunities.
+I'm a passionate second-year student in Software Engineering, with hands-on experience in both website and mobile app development. I'm always eager to learn and grow my skillset, and I'm currently looking for exciting internship opportunities.
 
 ## 👨‍💻 About Me
 
